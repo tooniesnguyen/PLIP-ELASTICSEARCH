@@ -1,4 +1,4 @@
-data/
-checkpoints/
+data/*
+checkpoints/*
 token.txt
 
